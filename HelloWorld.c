@@ -4,4 +4,5 @@ int main()
   printf("Hello Europe \n");
   printf("press any key to continue");
   getchar();
+  return 0;
 }
